@@ -8,28 +8,29 @@ https://github.com/join?source=header-home
 https://github.com/new
 ###### 4. 깃 배쉬 맛보기
 
-```git init```
+```$ git init```
 
-```git --global config user.name "Your Name"```
+```$ git --global config user.name "Your Name"```
 
-```git --global config user.email example@abc.com```
+```$ git --global config user.email example@abc.com```
 
-```git remote add origin "your-git-repo.git"```
+```$ git remote add origin "your-git-repo.git"```
+```$ git clone <github repo>```
 ###### 5. 테스트파일 만들기
-```touch test.txt```
+```$ touch test.txt```
 
-```vim test.txt```
+```$ vim test.txt```
 ###### 6. 깃허브에 파일 올리기
 1)준비 영역에 파일 올리기
 
-```git add *```
+```$ git add *```
 
-```git add '파일명'```
+```$ git add '파일명'```
 
 2)커밋하기
 
-```git commit -m 'descript'```
+```$ git commit -m 'descript'```
 
 3) push
 
-```git push -u origin master```
+```$ git push -u origin master```
