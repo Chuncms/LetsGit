@@ -15,6 +15,7 @@ https://github.com/new
 ```$ git --global config user.email example@abc.com```
 
 ```$ git remote add origin "your-git-repo.git"```
+
 ```$ git clone <github repo>```
 ###### 5. 테스트파일 만들기
 ```$ touch test.txt```
