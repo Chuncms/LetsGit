@@ -7,5 +7,5 @@ https://github.com/join?source=header-home
 ###### 3. 자신의 Repository 만들기
 https://github.com/new
 ###### 4. 깃 배쉬 맛보기
-'''git init
-'''git remote add origin "your-git-repo.git"
+'''git init'''
+git remote add origin "your-git-repo.git"
