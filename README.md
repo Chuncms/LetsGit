@@ -8,4 +8,9 @@ https://github.com/join?source=header-home
 https://github.com/new
 ###### 4. 깃 배쉬 맛보기
 ```git init```
+
+```git --global config user.name "Your Name"```
+
+```git --global config user.email example@abc.com```
+
 ```git remote add origin "your-git-repo.git"```
