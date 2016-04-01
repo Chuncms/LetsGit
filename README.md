@@ -10,11 +10,9 @@ https://github.com/new
 
 ```$ git init```
 
-```$ git --global config user.name "Your Name"```
+```$ git config --global user.name "Your Name"```
 
-```$ git --global config user.email example@abc.com```
-
-```$ git remote add origin "your-git-repo.git"```
+```$ git config --global user.email example@abc.com```
 
 ```$ git clone <github repo>```
 ###### 5. 테스트파일 만들기
